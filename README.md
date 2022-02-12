@@ -4,7 +4,8 @@
 <p align="center">🚀 - Alvo do estudo: Estrutura <strong>HTML</strong>5.</p>
 <p align="center">🚀 - Estilização com  <strong>CSS</strong>3 puro.</p>
 
-:package:
+:up: Menu implementado
+:up: Uso de GridLayout 
 
 
 ## Links
@@ -13,3 +14,5 @@
     `https://fontawesome.com/v4/icon/`
 - fonts-google
     `https://fonts.google.com/`
+    
+ 
