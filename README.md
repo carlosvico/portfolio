@@ -4,7 +4,7 @@
 <p align="center">🚀 - Alvo do estudo: Estrutura <strong>HTML</strong>5.</p>
 <p align="center">🚀 - Estilização com  <strong>CSS</strong>3 puro.</p>
 
-:package 
+:package:
 
 ## Links
 
